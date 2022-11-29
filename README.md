@@ -12,3 +12,5 @@ Then we created a Regression table using state and sales and added income. We ta
 
 All the aalysis is done in Microsoft Power BI. 
 
+![image](https://user-images.githubusercontent.com/70135833/204481225-4344315d-ca8e-4d08-b127-bc616b5df5a8.png)
+![image](https://user-images.githubusercontent.com/70135833/204481409-547d9c42-c4c2-4af2-8a8c-00b182b28135.png)
